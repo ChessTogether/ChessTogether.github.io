@@ -10,7 +10,7 @@ header:
 #    - label: "<i class='fas fa-download'></i> Install now"
 #      url: "/docs/quick-start-guide/"
 excerpt: >
-  The Chess Together non-profit organization aims to teach chess to children and special needs children<br />
+  A 501(c)(3) non-profit organization aims to teach chess to children and special needs children<br />
   <small></small>
 
 intro: 
