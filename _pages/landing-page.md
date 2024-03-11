@@ -5,7 +5,7 @@ permalink: /
 hidden: false
 header:
   #overlay_color: "#000"
-  overlay_image: /assets/images/FiQCI-banner.jpg
+  overlay_image: /assets/images/chesstogether-banner.png
 #  actions:
 #    - label: "<i class='fas fa-download'></i> Install now"
 #      url: "/docs/quick-start-guide/"

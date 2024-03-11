@@ -5,7 +5,7 @@ permalink: /tournament
 hidden: false
 header:
   #overlay_color: "#000"
-  overlay_image: /assets/images/FiQCI-banner.jpg
+  overlay_image: /assets/images/chesstogether-banner.png
 excerpt: >
   The Finnish Quantum-Computing Infrastructure<br />
   <small></small>
