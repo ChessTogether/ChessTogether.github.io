@@ -20,7 +20,7 @@ feature_row:
   - image_path: /assets/images/access-icon.png
     title: "Classes"
     excerpt: "Information about classes"
-    url: "/class"
+    url: "/classes"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/posts-icon.jpg

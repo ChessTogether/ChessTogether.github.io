@@ -7,19 +7,19 @@ header:
   #overlay_color: "#000"
   overlay_image: /assets/images/chesstogether-banner.png
 excerpt: >
-  The Chess Together non-profit organization aims to teach chess to children and special needs children<br />
+  A 501(c)(3) non-profit organization aims to teach chess to children and special needs children<br />
   <small></small>
 intro: 
   - excerpt: 'The FiQCI consortium maintains, operates, and develops the infrastructure'
 funders_gallery:
- - url: /assets/images/funder-Academy_of_Finland.png
-   image_path: /assets/images/funder-Academy_of_Finland.png
-   alt: "Academy of Finland logo"
-   title: "Academy of Finland"
- - url: /assets/images/funder-EU-RRF.jpg
-   image_path: /assets/images/funder-EU-RRF.jpg
-   alt: "European Union NextGenerationEU logo"
-   title: "European Union NextGenerationEU"
+ - url: /assets/images/USCHESS_Affiliate_color.jpg
+   image_path: /assets/images/USCHESS_Affiliate_color.jpg
+   alt: "US CHESS Affiliate"
+   title: "US CHESS Affiliate"
+ - url: /assets/images/tca_logo.png
+   image_path: /assets/images/tca_logo.png
+   alt: "TCA Affiliate"
+   title: "TCA Affiliate"
 
 ---
 
