@@ -5,9 +5,9 @@ permalink: /about
 hidden: false
 header:
   #overlay_color: "#000"
-  overlay_image: /assets/images/FiQCI-banner.jpg
+  overlay_image: /assets/images/chesstogether-banner.png
 excerpt: >
-  The Finnish Quantum-Computing Infrastructure<br />
+  The Chess Together non-profit organization aims to teach chess to children and special needs children<br />
   <small></small>
 intro: 
   - excerpt: 'The FiQCI consortium maintains, operates, and develops the infrastructure'

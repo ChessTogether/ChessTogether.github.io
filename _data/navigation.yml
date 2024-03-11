@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "Tournament"
-    url: /tournament
+  - title: "Classes"
+    url: /classes
   - title: "Posts"
     url: /publications
   - title: "About"

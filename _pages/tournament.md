@@ -1,13 +1,13 @@
 ---
-title: "Tournament"
+title: "Classes"
 layout: splash
-permalink: /tournament
+permalink: /classes
 hidden: false
 header:
   #overlay_color: "#000"
   overlay_image: /assets/images/chesstogether-banner.png
 excerpt: >
-  The Finnish Quantum-Computing Infrastructure<br />
+  The Chess Together non-profit organization aims to teach chess to children and special needs children<br />
   <small></small>
 
 
