@@ -1,13 +1,13 @@
 # main links
 main:
-  - title: "How to get access"
-    url: /access
-  - title: "Posts and publications"
+  - title: "Tournament"
+    url: /tournament
+  - title: "Posts"
     url: /publications
   - title: "About"
     url: /about
-  - title: "Status"
-    url: /status
+  - title: "Get Involved"
+    url: /getinvolved
   # - title: "Github"
   #   url: https://github.com/FiQCI/fiqci.github.io
   # - title: "About"

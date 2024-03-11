@@ -1,7 +1,7 @@
 ---
-title: "Access"
+title: "Tournament"
 layout: splash
-permalink: /access
+permalink: /tournament
 hidden: false
 header:
   #overlay_color: "#000"

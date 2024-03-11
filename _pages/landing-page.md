@@ -1,5 +1,5 @@
 ---
-title: "FiQCI"
+title: "Chess Together"
 layout: splash
 permalink: /
 hidden: false
@@ -10,28 +10,28 @@ header:
 #    - label: "<i class='fas fa-download'></i> Install now"
 #      url: "/docs/quick-start-guide/"
 excerpt: >
-  The Finnish Quantum-Computing Infrastructure<br />
+  The Chess Together non-profit organization aims to teach chess to children and special needs children<br />
   <small></small>
 
 intro: 
-  - excerpt: 'Making the power of quantum computing accessible'
+  #- excerpt: 'Making the power of quantum computing accessible'
 
 feature_row:
   - image_path: /assets/images/access-icon.png
-    title: "How to get access"
-    excerpt: "Access to FiQCI is granted through the CSC supercomputing environment"
-    url: "/access"
+    title: "Classes"
+    excerpt: "Information about classes"
+    url: "/class"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/posts-icon.jpg
-    title: "Posts and publications"
-    excerpt: "Blog posts, publications, and other material of interest"
+    title: "Posts"
+    excerpt: "Blog posts, publications, and other news"
     url: "/publications"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/about-icon.jpg
-    title: "About FiQCI"
-    excerpt: "The FiQCI consortium maintains, operates, and develops the infrastructure"
+    title: "About Chess Together"
+    excerpt: "History and more information about Chess Together"
     url: "/about"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
@@ -39,11 +39,11 @@ feature_row:
 
 {% include feature_row id="intro" type="center" %}
 
-## Open Call for pilot access to Helmi quantum computer now open
+<!-- ## Open Call for pilot access to Helmi quantum computer now open -->
 
 <!-- [Read more here](posts/2022-10-31-Helmi-pilot/). -->
 
-<p style="text-align:center"> <a href="_posts/2022-11-01-Helmi-pilot/">  <font size="+3"> Read more here </font></a> </p>
+<!-- <p style="text-align:center"> <a href="_posts/2022-11-01-Helmi-pilot/">  <font size="+3"> Read more here </font></a> </p> -->
 
 
 {% include feature_row %}

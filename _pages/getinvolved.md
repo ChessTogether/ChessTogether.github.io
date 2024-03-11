@@ -1,7 +1,7 @@
 ---
-title: "Status"
+title: "Get Involved"
 layout: splash
-permalink: /status
+permalink: /getinvolved
 hidden: false
 header:
   #overlay_color: "#000"
