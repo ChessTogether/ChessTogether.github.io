@@ -18,6 +18,7 @@ intro:
 
 
 ## 1. Beginner’s Chess Basics
+
 | <!-- -->          |  <!-- -->                                                                                                  |
 |-------------------|------------------------------------------------------------------------------------------------------------|
 | Description       | A foundational course for beginners, covering the rules of chess, piece movements, and basic strategies.   |
@@ -26,6 +27,7 @@ intro:
 
 
 ## 2. Intermediate Tactics Workshop
+
 | <!-- -->          |  <!-- -->                                                                                 |
 |-------------------|-------------------------------------------------------------------------------------------|
 | Description       | Dive deeper into chess tactics, including pins, forks, skewers, and discovered attacks.   |
@@ -33,6 +35,7 @@ intro:
 | Duration          | 6 months (1 hour per session)                                                             |
 
 ## 3. Advanced Strategy Masterclass
+
 | <!-- -->          |  <!-- -->                                                                          |
 |-------------------|------------------------------------------------------------------------------------|
 | Description       | Explore advanced concepts such as positional play, endgames, and opening theory.   |
@@ -41,6 +44,7 @@ intro:
 
 
 ## 4. Chess for Special Needs
+
 | <!-- -->          |  <!-- -->                                                                                                                |
 |-------------------|--------------------------------------------------------------------------------------------------------------------------|
 | Description       | A tailored program for children with special needs, emphasizing patience, focus, and social interaction through chess.   |
