@@ -14,7 +14,7 @@ tags:
   - nonprofit
 ---
 
-<!-- # Open Call for pilot projects for access to the Helmi quantum computer -->
+
 
 Announcement: Chess Together Non-Profit Organization Launched! 
 {: .notice--info}

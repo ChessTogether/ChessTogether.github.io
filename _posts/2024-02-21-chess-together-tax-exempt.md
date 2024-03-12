@@ -14,7 +14,7 @@ tags:
   - nonprofit
 ---
 
-<!-- # Open Call for pilot projects for access to the Helmi quantum computer -->
+
 
 Announcement: Chess Together Receives 501(c)(3) Tax-Exempt Status! 
 {: .notice--info}

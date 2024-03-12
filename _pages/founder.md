@@ -10,7 +10,7 @@ excerpt: >
   A 501(c)(3) non-profit organization aims to teach chess to children and special needs children<br />
   <small></small>
 intro: 
-  - excerpt: 'View the status of the Quantum Connections'
+  - excerpt: ''
 ---
 
 
