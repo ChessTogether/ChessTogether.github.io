@@ -14,7 +14,7 @@ excerpt: >
   <small></small>
 
 intro: 
-  #- excerpt: 'Making the power of quantum computing accessible'
+  #- excerpt: ''
 
 feature_row:
   - image_path: /assets/images/access-icon.png
@@ -39,11 +39,6 @@ feature_row:
 
 {% include feature_row id="intro" type="center" %}
 
-<!-- ## Open Call for pilot access to Helmi quantum computer now open -->
-
-<!-- [Read more here](posts/2022-10-31-Helmi-pilot/). -->
-
-<!-- <p style="text-align:center"> <a href="_posts/2022-11-01-Helmi-pilot/">  <font size="+3"> Read more here </font></a> </p> -->
 
 
 {% include feature_row %}

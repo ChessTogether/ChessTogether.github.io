@@ -17,8 +17,7 @@ intro:
 
 # Meet the Founder
 
-
-Hello, I’m [Sanjay Rajjan](https://sanjay.rajjan.com), a student at Prosper High School. I started learning computer programming in middle school through the Make.Hack.Build program at https://dospace.org/. I’m also a member of the varsity tennis team at PHS. I enjoy playing and coaching chess in my free time.
+Hello, I’m [Sanjay Rajjan](https://sanjay.rajjan.com), a student at Prosper High School. I’m also a member of the varsity tennis team at PHS. I enjoy playing and coaching chess in my free time.
 
 I have been playing chess since a very young age, and it is a game I am very passionate about. It is for this reason that I have participated in many state and national invitational tournaments. 
 
