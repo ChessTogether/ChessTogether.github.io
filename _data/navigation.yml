@@ -3,7 +3,7 @@ main:
   - title: "Classes"
     url: /classes
   - title: "Posts"
-    url: /publications
+    url: /posts
   - title: "About"
     url: /about
   - title: "Get Involved"
