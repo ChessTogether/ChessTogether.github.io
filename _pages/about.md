@@ -10,7 +10,7 @@ excerpt: >
   A 501(c)(3) non-profit organization aims to teach chess to children and special needs children<br />
   <small></small>
 intro: 
-  - excerpt: 'The FiQCI consortium maintains, operates, and develops the infrastructure'
+  - excerpt: 'Join us at Chess Together as we make a positive impact, one move at a time! ♟️🌟'
 funders_gallery:
  - url: /assets/images/USCHESS_Affiliate_color.jpg
    image_path: /assets/images/USCHESS_Affiliate_color.jpg
@@ -25,49 +25,21 @@ funders_gallery:
 
 {% include feature_row id="intro" type="center" %}
 
-## In Brief
+## Mission Statement
 
-The Finnish Quantum-Computing Infrastructure (FiQCI) was established in 2020, when it became part of the Finnish Research Infrastructure (FIRI) roadmap of significant national research infrastructures within the Finnish research infrastructure ecosystem, maintained by the Research Council of Finland.
 
-The mission of FiQCI is to provide state-of-the-art quantum-computing services such as computing time and training to the Finnish RDI communities. This includes providing a hybrid high-performance computing and quantum computing (HPC+QC) platform for developing, testing, and exploiting quantum-accelerated computational workflows. Through FiQCI, Finnish researchers have access to one of the most powerful hybrid HPC+nQC resources in the world, available for quantum accelerated research and development. The infrastructure also aims to offer possibilities to carry out experiments in quantum physics.
+At Chess Together, our mission is to create an inclusive and enriching environment where children and special needs individuals can learn and thrive through the game of chess. We believe that chess is more than just a game; it’s a powerful educational tool that fosters critical thinking, concentration, and social skills.
 
-FiQCI is jointly maintained, operated, and developed by **VTT**, **Aalto University**, and **CSC – IT Center for Science**.
+## Our commitment is to:
 
-## Components
+* Empower: We empower young minds by providing accessible chess education, regardless of their abilities or backgrounds.
+* Educate: We introduce and reinforce academic and 21st-century skills through chess, helping students develop cognitive abilities and enhance their learning experiences.
+* Nurture: We create a supportive community where every child feels valued, respected, and encouraged to grow.
+* Inspire: By teaching chess, we inspire a love for learning, strategic thinking, and camaraderie among our students.
+* Together, we’re sowing the seeds of knowledge, compassion, and resilience, ensuring that every child, regardless of their unique challenges, can find joy and growth in the world of chess."
 
-### LUMI supercomputer
 
-The backbone of the classical HPC resources in FiQCI, and the portal for quantum computing resources, is the pan-European EuroHPC LUMI supercomputer. LUMI is the fastest and greenest supercomputer in Europe, hosted by CSC in Kajaani, Finland. For more information, see [https://www.lumi-supercomputer.eu/](https://www.lumi-supercomputer.eu/)
-
-### Helmi quantum computer
-
-Helmi, the first Finnish quantum computer, co-developed by VTT and IQM Quantum Computers, is operated by VTT in Espoo, Finland. Helmi is based on superconducting technology, and presently provides five qubits. Upgrades to 20, then 50 qubits is planned for the near future.
-
-### Kvasi quantum computer simulator
-
-Kvasi, the Atos Quantum Learning Machine or Qaptiva is a quantum computing simulator with which you can learn to use and develop new quantum algorithms. Kvasi provides a platform for developing and simulating quantum algorithms in both ideal and realistic, noisy conditions. Kvasi is capable of simulating algorithms for quantum computers of 30+ qubits. For more information, see [https://research.csc.fi/-/kvasi](https://research.csc.fi/-/kvasi)
-
-### Other resources
-
-Other quantum resources will continuously be added to the FiQCI infrastructure.
-
-## Scientific and Technical Advisory Group 
-
-The Scientific and Technical Advisory Group (STAG) provides input for the operation of the infrastructure. The current (2023) members of the STAG are:
-
-* Dr. Valeria Bartsch, Fraunhofer Institute for Industrial Mathematics, Germany
-* Dr. Alba Cervera Lierta, Barcelona Supercomputing Center, Spain
-* Prof. Tommi Mikkonen, University of Jyväskylä, Finland
-* Prof. Martin Schulz, Technical University of Munich, Germany
-* Prof. Göran Wendin, Chalmers University of Technology, Sweden
-
-## Management
-
-* Prof. Mika Prunnila, VTT, FiQCI director
-* Dr. Mikael Johansson, CSC, FiQCI vice-director
-* Prof. Tapio Ala-Nissilä, Aalto University, FiQCI vice-director
-
-## Supported by
+## Affiliated to
 
 {% include gallery id="funders_gallery" %}
 
