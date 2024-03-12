@@ -6,8 +6,10 @@ main:
     url: /posts
   - title: "About"
     url: /about
-  - title: "Get Involved"
-    url: /getinvolved
+  - title: "Founder"
+    url: /founder
+  - title: "Contact Us"
+    url: /contact
   # - title: "Github"
   #   url: https://github.com/FiQCI/fiqci.github.io
   # - title: "About"
