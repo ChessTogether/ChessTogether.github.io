@@ -15,7 +15,7 @@ tags:
 
 ## 1. Beginner’s Chess Basics
 
-| <!-- -->          |  <!-- ->                                                                                                  |
+| <!-- -->          |  <!-- -->                                                                                                 |
 |-------------------|-----------------------------------------------------------------------------------------------------------|
 | Description       | A foundational course for beginners, covering the rules of chess, piece movements, and basic trategies.   |
 | Target Audience   | Kids aged 5-10.                                                                                           |
