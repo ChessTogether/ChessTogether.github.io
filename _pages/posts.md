@@ -11,7 +11,7 @@ excerpt: >
   <small></small>
 
 intro: 
-  - excerpt: 'Blog posts, publications, and other news from Chess Together'
+  - excerpt: 'Blog posts, announcements, and other news from Chess Together'
    
 ---
 
