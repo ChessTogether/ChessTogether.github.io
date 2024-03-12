@@ -1,7 +1,7 @@
 ---
-title: "Publications"
+title: "Posts"
 layout: posts
-permalink: /publications/
+permalink: /posts/
 hidden: false
 header:
   #overlay_color: "#000"
