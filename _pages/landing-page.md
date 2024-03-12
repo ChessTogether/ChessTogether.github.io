@@ -23,15 +23,15 @@ feature_row:
     url: "/classes"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/posts-icon.jpg
+  - image_path: /assets/images/chess-class1.jpg
     title: "Posts"
-    excerpt: "Blog posts, publications, and other news"
+    excerpt: "Blog posts, publications, and other news from Chess Together"
     url: "/posts"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/about-icon.jpg
+  - image_path: /assets/images/about-icon.png
     title: "About Chess Together"
-    excerpt: "History and more information about Chess Together"
+    excerpt: "Learn more information about Chess Together"
     url: "/about"
     btn_class: "btn--primary"
     btn_label: "Learn more"      

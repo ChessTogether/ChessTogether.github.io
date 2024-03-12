@@ -3,7 +3,7 @@ title: 'Free Online Chess Class during winter break'
 date: 2022-12-18
 permalink: /_posts/2022-11-01-Free-online-chess-class/
 header:
-  # teaser: /assets/images/chesstogether-banner.png
+  teaser: /assets/images/chess-class1.jpg
 published: true
 layout: single
 # gallery:
