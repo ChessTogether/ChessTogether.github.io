@@ -26,7 +26,7 @@ funders_gallery:
 {% include feature_row id="intro" type="center" %}
 
 ## About
-__Chess Together__ is a 501(c)(3) non-profit organization founded by [Sanjay Rajjan](/founder) with the mission of educating children and special needs children in the game of chess. Additionally, we actively coordinate chess tournaments for kids. 
+__Chess Together__ is a [501(c)(3) non-profit organization](https://apps.irs.gov/pub/epostcard/dl/FinalLetter_99-1300100_CHESSTOGETHER_02122024_00.pdf) founded by [Sanjay Rajjan](/founder) with the mission of educating children and special needs children in the game of chess. Additionally, we actively coordinate chess tournaments for kids. 
 
 ## Mission Statement
 

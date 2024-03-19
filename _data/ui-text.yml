@@ -29,7 +29,7 @@ en: &DEFAULT_EN
   related_label              : "You may also enjoy"
   follow_label               : "FOLLOW US ON:"
   feed_label                 : "Feed"
-  powered_by                 : "Powered by"
+  powered_by                 : "A 501(c)(3) non-profit Organization. Powered by"
   website_label              : "Website"
   email_label                : "Email"
   recent_posts               : "Recent posts"

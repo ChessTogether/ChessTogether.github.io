@@ -19,13 +19,13 @@ intro:
 feature_row:
   - image_path: /assets/images/access-icon.png
     title: "Classes"
-    excerpt: "Information about classes"
+    excerpt: "Information about classes and schedules"
     url: "/classes"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/chess1.jpeg
     title: "Posts"
-    excerpt: "Blog posts, announcements, and other news from Chess Together"
+    excerpt: "Blog posts and news from Chess Together"
     url: "/posts"
     btn_class: "btn--primary"
     btn_label: "Learn more"
