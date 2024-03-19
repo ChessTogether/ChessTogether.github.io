@@ -23,7 +23,7 @@ feature_row:
     url: "/classes"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/chess-class2.JPG
+  - image_path: /assets/images/chess1.jpeg
     title: "Posts"
     excerpt: "Blog posts, announcements, and other news from Chess Together"
     url: "/posts"

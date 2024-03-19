@@ -1,7 +1,7 @@
 ---
 title: 'No break for chess during spring break'
 date: 2024-03-16
-permalink: /_posts/2024-03-16-no-break-for-chess/
+permalink: /_posts/2024-03-16-spring-break/
 header:
  # teaser: /assets/images/chesstogether-banner.png
 published: true
