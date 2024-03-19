@@ -27,7 +27,7 @@ Announcement: Chess Together Non-Profit Organization Launched!
 
 * **Mission:** At Chess Together, our mission is to make chess accessible to all, especially children and special needs children. We believe in the power of chess to enhance critical thinking, concentration, and sportsmanship.
 
-* **Founder:** Sanjay Rajjan, a passionate chess enthusiast, envisioned Chess Together as a platform for young minds to explore the fascinating world of chess.
+* **Founder:** [Sanjay Rajjan](/founder), a passionate chess enthusiast, envisioned Chess Together as a platform for young minds to explore the fascinating world of chess.
 
 ## Our Initiatives:
 
