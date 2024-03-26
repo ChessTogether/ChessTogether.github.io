@@ -32,7 +32,7 @@ __Chess Together__ is a [501(c)(3) non-profit organization](https://apps.irs.gov
 
 At Chess Together, our mission is to create an inclusive and enriching environment where children and special needs individuals can learn and thrive through the game of chess. We believe that chess is more than just a game; it’s a powerful educational tool that fosters critical thinking, concentration, and social skills.
 
-## Our commitment is to:
+## Our commitment:
 
 * Empower: We empower young minds by providing accessible chess education, regardless of their abilities or backgrounds.
 * Educate: We introduce and reinforce academic and 21st-century skills through chess, helping students develop cognitive abilities and enhance their learning experiences.
@@ -41,7 +41,7 @@ At Chess Together, our mission is to create an inclusive and enriching environme
 * Together, we’re sowing the seeds of knowledge, compassion, and resilience, ensuring that every child, regardless of their unique challenges, can find joy and growth in the world of chess."
 
 
-## Affiliated to
+## Affiliation
 Chess Together is affiliated to [US Chess Federation](https://new.uschess.org/) to run rated and unrated tournaments and [Texas Chess Association](https://texaschess.org/).
 
 {% include gallery id="funders_gallery" %}
